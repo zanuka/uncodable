@@ -2,7 +2,7 @@
 
 I'm Nick, a full-stack developer and devops engineer who loves web and desktop technologies.
 
-🔭 I’m currently working on [botl](https://github.com/botl).  
+🔭 I’m currently working on [clustercrm](https://github.com/clustercrm), a SaaS CRM solution built using Amplify + React.  
 📫 How to reach me: Discord (uncodable#9999).  
 ☕ I’m currently moving away from 10+ years PHP over towards Deno and TypeScript.
 <br><br>
